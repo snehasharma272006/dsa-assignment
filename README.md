@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/snehasharma272006/dsa-assignment/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/snehasharma272006/dsa-assignment/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/snehasharma272006/dsa-assignment/tree/main/0053-maximum-subarray/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/snehasharma272006/dsa-assignment/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/snehasharma272006/dsa-assignment/tree/main/0217-contains-duplicate/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/snehasharma272006/dsa-assignment/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Hash Table
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/snehasharma272006/dsa-assignment/tree/main/0053-maximum-subarray/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/snehasharma272006/dsa-assignment/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
