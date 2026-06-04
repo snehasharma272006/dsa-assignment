@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehasharma272006/dsa-assignment/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/snehasharma272006/dsa-assignment/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/snehasharma272006/dsa-assignment/tree/main/0283-move-zeroes/) | Easy |
+| [0566-reshape-the-matrix](https://github.com/snehasharma272006/dsa-assignment/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/snehasharma272006/dsa-assignment/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/snehasharma272006/dsa-assignment/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/snehasharma272006/dsa-assignment/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -55,9 +56,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/snehasharma272006/dsa-assignment/tree/main/0054-spiral-matrix/) | Medium |
+| [0566-reshape-the-matrix](https://github.com/snehasharma272006/dsa-assignment/tree/main/0566-reshape-the-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/snehasharma272006/dsa-assignment/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/snehasharma272006/dsa-assignment/tree/main/0054-spiral-matrix/) | Medium |
+| [0566-reshape-the-matrix](https://github.com/snehasharma272006/dsa-assignment/tree/main/0566-reshape-the-matrix/) | Easy |
 <!---LeetCode Topics End-->
