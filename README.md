@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/snehasharma272006/dsa-assignment/tree/main/0392-is-subsequence/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/snehasharma272006/dsa-assignment/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/snehasharma272006/dsa-assignment/tree/main/0567-permutation-in-string/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/snehasharma272006/dsa-assignment/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/snehasharma272006/dsa-assignment/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -128,4 +129,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/snehasharma272006/dsa-assignment/tree/main/0141-linked-list-cycle/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/snehasharma272006/dsa-assignment/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
