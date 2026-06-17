@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/snehasharma272006/dsa-assignment/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/snehasharma272006/dsa-assignment/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/snehasharma272006/dsa-assignment/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/snehasharma272006/dsa-assignment/tree/main/0394-decode-string/) | Medium |
 ## Recursion
@@ -136,4 +137,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/snehasharma272006/dsa-assignment/tree/main/0141-linked-list-cycle/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/snehasharma272006/dsa-assignment/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/snehasharma272006/dsa-assignment/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/snehasharma272006/dsa-assignment/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
