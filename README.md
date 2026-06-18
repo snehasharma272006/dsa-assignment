@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/snehasharma272006/dsa-assignment/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/snehasharma272006/dsa-assignment/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/snehasharma272006/dsa-assignment/tree/main/0054-spiral-matrix/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/snehasharma272006/dsa-assignment/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehasharma272006/dsa-assignment/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/snehasharma272006/dsa-assignment/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0217-contains-duplicate](https://github.com/snehasharma272006/dsa-assignment/tree/main/0217-contains-duplicate/) | Easy |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/snehasharma272006/dsa-assignment/tree/main/0020-valid-parentheses/) | Easy |
+| [0084-largest-rectangle-in-histogram](https://github.com/snehasharma272006/dsa-assignment/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/snehasharma272006/dsa-assignment/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/snehasharma272006/dsa-assignment/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/snehasharma272006/dsa-assignment/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/snehasharma272006/dsa-assignment/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/snehasharma272006/dsa-assignment/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/snehasharma272006/dsa-assignment/tree/main/0739-daily-temperatures/) | Medium |
 ## Math
