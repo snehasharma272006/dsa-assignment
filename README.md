@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/snehasharma272006/dsa-assignment/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/snehasharma272006/dsa-assignment/tree/main/0054-spiral-matrix/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehasharma272006/dsa-assignment/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/snehasharma272006/dsa-assignment/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0217-contains-duplicate](https://github.com/snehasharma272006/dsa-assignment/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/snehasharma272006/dsa-assignment/tree/main/0283-move-zeroes/) | Easy |
 | [0496-next-greater-element-i](https://github.com/snehasharma272006/dsa-assignment/tree/main/0496-next-greater-element-i/) | Easy |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/snehasharma272006/dsa-assignment/tree/main/0020-valid-parentheses/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/snehasharma272006/dsa-assignment/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/snehasharma272006/dsa-assignment/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/snehasharma272006/dsa-assignment/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/snehasharma272006/dsa-assignment/tree/main/0394-decode-string/) | Medium |
@@ -151,4 +153,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/snehasharma272006/dsa-assignment/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/snehasharma272006/dsa-assignment/tree/main/0739-daily-temperatures/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/snehasharma272006/dsa-assignment/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 <!---LeetCode Topics End-->
