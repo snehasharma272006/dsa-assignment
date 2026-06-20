@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/snehasharma272006/dsa-assignment/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/snehasharma272006/dsa-assignment/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/snehasharma272006/dsa-assignment/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/snehasharma272006/dsa-assignment/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/snehasharma272006/dsa-assignment/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/snehasharma272006/dsa-assignment/tree/main/0217-contains-duplicate/) | Easy |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/snehasharma272006/dsa-assignment/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/snehasharma272006/dsa-assignment/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0013-roman-to-integer](https://github.com/snehasharma272006/dsa-assignment/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/snehasharma272006/dsa-assignment/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/snehasharma272006/dsa-assignment/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/snehasharma272006/dsa-assignment/tree/main/0049-group-anagrams/) | Medium |
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/snehasharma272006/dsa-assignment/tree/main/0013-roman-to-integer/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/snehasharma272006/dsa-assignment/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
