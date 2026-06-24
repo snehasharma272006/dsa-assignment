@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/snehasharma272006/dsa-assignment/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/snehasharma272006/dsa-assignment/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,4 +199,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/snehasharma272006/dsa-assignment/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/snehasharma272006/dsa-assignment/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
