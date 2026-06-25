@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/snehasharma272006/dsa-assignment/tree/main/0112-path-sum/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/snehasharma272006/dsa-assignment/tree/main/0112-path-sum/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/snehasharma272006/dsa-assignment/tree/main/0112-path-sum/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
