@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/snehasharma272006/dsa-assignment/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/snehasharma272006/dsa-assignment/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehasharma272006/dsa-assignment/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/snehasharma272006/dsa-assignment/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0392-is-subsequence](https://github.com/snehasharma272006/dsa-assignment/tree/main/0392-is-subsequence/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/snehasharma272006/dsa-assignment/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/snehasharma272006/dsa-assignment/tree/main/0112-path-sum/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/snehasharma272006/dsa-assignment/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/snehasharma272006/dsa-assignment/tree/main/0112-path-sum/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/snehasharma272006/dsa-assignment/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
@@ -210,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/snehasharma272006/dsa-assignment/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/snehasharma272006/dsa-assignment/tree/main/0112-path-sum/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/snehasharma272006/dsa-assignment/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
