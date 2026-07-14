@@ -5,18 +5,23 @@ public:
         int m = mat.size();
         int n = mat[0].size();
 
-        if (m * n != r * c) {
+        // Reshape not possible
+        if (m * n != r * c)
             return mat;
-        }
 
         vector<vector<int>> ans(r, vector<int>(c));
 
         for (int i = 0; i < m; i++) {
+
             for (int j = 0; j < n; j++) {
 
-                int index = i * n + j;
+                
+                int idx = i * n + j;
 
-                ans[index / c][index % c] = mat[i][j];
+                int newRow = idx / c;
+                int newCol = idx % c;
+
+                ans[newRow][newCol] = mat[i][j];
             }
         }
 
