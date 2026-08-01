@@ -144,6 +144,7 @@ Collection of LeetCode questions
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/snehasharma272006/dsa-assignment/tree/main/0050-powx-n/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/snehasharma272006/dsa-assignment/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/snehasharma272006/dsa-assignment/tree/main/0394-decode-string/) | Medium |
 ## Linked List
@@ -168,6 +169,7 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/snehasharma272006/dsa-assignment/tree/main/0013-roman-to-integer/) | Easy |
+| [0050-powx-n](https://github.com/snehasharma272006/dsa-assignment/tree/main/0050-powx-n/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/snehasharma272006/dsa-assignment/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
