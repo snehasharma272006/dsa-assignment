@@ -147,6 +147,7 @@ Collection of LeetCode questions
 | [0050-powx-n](https://github.com/snehasharma272006/dsa-assignment/tree/main/0050-powx-n/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/snehasharma272006/dsa-assignment/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/snehasharma272006/dsa-assignment/tree/main/0394-decode-string/) | Medium |
+| [1922-count-good-numbers](https://github.com/snehasharma272006/dsa-assignment/tree/main/1922-count-good-numbers/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,6 +172,7 @@ Collection of LeetCode questions
 | [0013-roman-to-integer](https://github.com/snehasharma272006/dsa-assignment/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/snehasharma272006/dsa-assignment/tree/main/0050-powx-n/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/snehasharma272006/dsa-assignment/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [1922-count-good-numbers](https://github.com/snehasharma272006/dsa-assignment/tree/main/1922-count-good-numbers/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
