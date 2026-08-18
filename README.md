@@ -23,6 +23,7 @@ Collection of LeetCode questions
 | [0643-maximum-average-subarray-i](https://github.com/snehasharma272006/dsa-assignment/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/snehasharma272006/dsa-assignment/tree/main/0739-daily-temperatures/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/snehasharma272006/dsa-assignment/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/snehasharma272006/dsa-assignment/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/snehasharma272006/dsa-assignment/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -232,4 +233,5 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/snehasharma272006/dsa-assignment/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/snehasharma272006/dsa-assignment/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
