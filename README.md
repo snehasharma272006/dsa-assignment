@@ -23,6 +23,7 @@ Collection of LeetCode questions
 | [0643-maximum-average-subarray-i](https://github.com/snehasharma272006/dsa-assignment/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/snehasharma272006/dsa-assignment/tree/main/0739-daily-temperatures/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/snehasharma272006/dsa-assignment/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/snehasharma272006/dsa-assignment/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/snehasharma272006/dsa-assignment/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/snehasharma272006/dsa-assignment/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Hash Table
@@ -39,6 +40,7 @@ Collection of LeetCode questions
 | [0387-first-unique-character-in-a-string](https://github.com/snehasharma272006/dsa-assignment/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/snehasharma272006/dsa-assignment/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/snehasharma272006/dsa-assignment/tree/main/0567-permutation-in-string/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/snehasharma272006/dsa-assignment/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +77,7 @@ Collection of LeetCode questions
 | [0217-contains-duplicate](https://github.com/snehasharma272006/dsa-assignment/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/snehasharma272006/dsa-assignment/tree/main/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/snehasharma272006/dsa-assignment/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/snehasharma272006/dsa-assignment/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,4 +237,8 @@ Collection of LeetCode questions
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/snehasharma272006/dsa-assignment/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/snehasharma272006/dsa-assignment/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/snehasharma272006/dsa-assignment/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
