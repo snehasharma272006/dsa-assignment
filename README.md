@@ -26,6 +26,7 @@ Collection of LeetCode questions
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/snehasharma272006/dsa-assignment/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/snehasharma272006/dsa-assignment/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/snehasharma272006/dsa-assignment/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/snehasharma272006/dsa-assignment/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +95,7 @@ Collection of LeetCode questions
 | [0054-spiral-matrix](https://github.com/snehasharma272006/dsa-assignment/tree/main/0054-spiral-matrix/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/snehasharma272006/dsa-assignment/tree/main/0566-reshape-the-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/snehasharma272006/dsa-assignment/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/snehasharma272006/dsa-assignment/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
