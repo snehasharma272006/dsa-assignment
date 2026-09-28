@@ -16,6 +16,7 @@ Collection of LeetCode questions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehasharma272006/dsa-assignment/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/snehasharma272006/dsa-assignment/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0162-find-peak-element](https://github.com/snehasharma272006/dsa-assignment/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/snehasharma272006/dsa-assignment/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/snehasharma272006/dsa-assignment/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/snehasharma272006/dsa-assignment/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/snehasharma272006/dsa-assignment/tree/main/0283-move-zeroes/) | Easy |
@@ -52,6 +53,7 @@ Collection of LeetCode questions
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/snehasharma272006/dsa-assignment/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/snehasharma272006/dsa-assignment/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/snehasharma272006/dsa-assignment/tree/main/0141-linked-list-cycle/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/snehasharma272006/dsa-assignment/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/snehasharma272006/dsa-assignment/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/snehasharma272006/dsa-assignment/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/snehasharma272006/dsa-assignment/tree/main/0344-reverse-string/) | Easy |
@@ -234,6 +236,7 @@ Collection of LeetCode questions
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0162-find-peak-element](https://github.com/snehasharma272006/dsa-assignment/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/snehasharma272006/dsa-assignment/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Prefix Sum
