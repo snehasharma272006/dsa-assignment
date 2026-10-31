@@ -194,6 +194,7 @@ Collection of LeetCode questions
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/snehasharma272006/dsa-assignment/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/snehasharma272006/dsa-assignment/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -207,6 +208,7 @@ Collection of LeetCode questions
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/snehasharma272006/dsa-assignment/tree/main/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/snehasharma272006/dsa-assignment/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -216,6 +218,7 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/snehasharma272006/dsa-assignment/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/snehasharma272006/dsa-assignment/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -225,6 +228,7 @@ Collection of LeetCode questions
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/snehasharma272006/dsa-assignment/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/snehasharma272006/dsa-assignment/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/snehasharma272006/dsa-assignment/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
